@@ -1,5 +1,5 @@
 
-# WELCOME
+# WELCOME 
 👋 Hi, I'm **Yatharth Srivastava**
 - 🌱 **Current Position**: Research Engineer at Stealth Mode
   - Focused on advanced information retrieval and multimodal search systems for e-commerce and retail industries.
