@@ -1,28 +1,28 @@
+# Hi, I'm Yatharth Srivastava!
 
-# Hi, I'm [Your Name]!
-
-I'm a [Your Job Title] with a passion for [topics you're passionate about, e.g., web development, machine learning, etc.]. I love creating innovative solutions and working on projects that challenge me to continue learning.
+I'm a Research Engineer currently focusing on Reinforcement Learning (RL), Deep Learning (DL), and Natural Language Processing (NLP) at Stealth Mode. I'm passionate about creating innovative AI solutions that can transform industries and improve lives.
 
 ## 👨‍💻 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue)
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Tool-React-blue)
-![](https://img.shields.io/badge/Tool-Node.js-green)
-![](https://img.shields.io/badge/Tool-Docker-blue)
-![](https://img.shields.io/badge/Tool-AWS-orange)
+![](https://img.shields.io/badge/Framework-React-blue)
+![](https://img.shields.io/badge/Environment-Node.js-green)
+![](https://img.shields.io/badge/Tools-Docker-blue)
+![](https://img.shields.io/badge/Cloud-AWS-orange)
 
 ## 🌟 Featured Projects
 
-- **Project Name 1** - A short description about what the project does, what technologies were used, and the impact it had. [View Project](link-to-your-project)
-- **Project Name 2** - Description of another project, highlighting key accomplishments or technical challenges you overcame. [View Project](link-to-another-project)
+- **Autonomous Indoor Robot Navigation System** - Modular software-based system for indoor robots focusing on mapping, path planning, and obstacle avoidance. Utilizes ROS, Gazebo, YOLOv5, and sensor fusion techniques to achieve 85% mapping accuracy and real-time object detection. [View Project](link-to-your-project)
+- **FitForm Tracker** - Cross-platform exercise tracker and pose detection app developed for iOS and Android. Uses TensorFlow Lite and React Native to provide real-time feedback on exercise form at 25 FPS. [View Project](link-to-another-project)
+- **Disaster Management using Machine Learning Techniques** - Analyzed seismic activity to predict energy surges using CNN, LSTM, and GRU, focusing on reducing data dimensionality with advanced signal processing techniques. [View Project](link-to-another-project)
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Yatharth Srivastava](https://linkedin.com/in/yourprofile)
 - **Email**: `youremail@example.com`
 
 ## 🎸 Fun Fact
@@ -31,6 +31,5 @@ I love playing the guitar and have been part of a local band for over five years
 
 ## 📝 Latest Blog Posts
 
-- [How to get started with Open Source](link-to-blog)
+- [How to Get Started with Open Source](link-to-blog)
 - [My Journey with JavaScript](link-to-another-blog)
-
