@@ -36,6 +36,11 @@ I'm a Research Engineer currently focusing on Reinforcement Learning (RL), Deep 
 
 ![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatharth020&show_icons=true&theme=radical)
 
+## 🚀 Repository Stats
+
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=Yatharth020&repo=repo-name&theme=radical)
+
+
 
 ## 📫 How to Reach Me
 
