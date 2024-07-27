@@ -44,5 +44,5 @@ I'm a Research Engineer currently focusing on Reinforcement Learning (RL), Deep 
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Yatharth Srivastava]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yatharth-sri007/))
+- **LinkedIn**: [Yatharth Srivastava]([[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yatharth-sri007/)])
 - **Email**: `sri.yatharth096@gmail.com`
