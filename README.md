@@ -23,14 +23,5 @@ I'm a Research Engineer currently focusing on Reinforcement Learning (RL), Deep 
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Yatharth Srivastava](https://linkedin.com/in/yourprofile)
-- **Email**: `youremail@example.com`
-
-## 🎸 Fun Fact
-
-I love playing the guitar and have been part of a local band for over five years!
-
-## 📝 Latest Blog Posts
-
-- [How to Get Started with Open Source](link-to-blog)
-- [My Journey with JavaScript](link-to-another-blog)
+- **LinkedIn**: [Yatharth Srivastava]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yatharth-sri007/))
+- **Email**: `sri.yatharth096@gmail.com`
