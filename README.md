@@ -1,14 +1,13 @@
 # Hi, I'm Yatharth Srivastava!
 
 ## 🚀 About Me
-- **Current Role**: I am a Research Engineer at Stealth Mode, where I focus on:
-  - **Information Retrieval**: Enhancing search and retrieval systems using multimodal approaches.
-  - **Sector**: Primarily working within the e-commerce and retail sectors.
-  - **Technologies**: Utilizing cutting-edge AI techniques for optimizing and advancing search systems.
+## 🚀 Professional Summary
+- **Current Position**: Research Engineer at Stealth Mode
+  - **Focus Areas**: Specializing in advanced information retrieval and multimodal search systems for e-commerce and retail industries.
+  - **Technologies Used**: Working on deploying AI solutions, enhancing search accuracy and efficiency through ElasticSearch, and developing scalable systems with AWS and GCP.
 
-- **Passionate About Robotics**: Actively expanding my knowledge in robotics, driven by:
-  - **Clean and Sustainable Energy**: Committed to developing solutions that utilize clean and sustainable energy.
-  - **Interdisciplinary Innovation**: Exploring the convergence of AI and robotics to revolutionize energy technologies.
+- **Research Interests**: Keen interest in integrating AI with robotics to address challenges in sustainable and clean energy solutions.
+  - **Goal**: Harness AI and robotics to innovate and implement technologies that significantly reduce the environmental impact and optimize energy usage.
 
 ## 👨‍💻 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue)
