@@ -30,7 +30,8 @@
 ![](https://img.shields.io/badge/Tools-MATLAB-orange)
 
 ## 📈 GitHub Stats
+
 ![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatharth020&show_icons=true&theme=radical)
 
-## 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth020&layout=compact&theme=radical)
+
+
