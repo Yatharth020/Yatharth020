@@ -3,7 +3,7 @@
 👋 Hi, I'm **Yatharth Srivastava**
 - 🌱 **Current Position**: Research Engineer at Stealth Mode
   - Focused on advanced information retrieval and multimodal search systems for e-commerce and retail industries.
-- 🤖 **Research Interests**: Exploring the intersection of AI, clean energy and robotics
+- 🤖 **Research Interests**: Exploring the intersection of AI, clean energy and robotics(Multi Task Learning)
 
 ## 📫 How to Reach Me
 - **Email**: [sri.yatharth096@gmail.com](mailto:sri.yatharth096@gmail.com)
