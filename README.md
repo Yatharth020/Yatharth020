@@ -1,8 +1,8 @@
 
 # WELCOME 
 👋 Hi, I'm **Yatharth Srivastava**
-- 🌱 **Current Position**: Research Engineer at Stealth Mode
-  - Focused on advanced information retrieval and multimodal search systems for e-commerce and retail industries.
+- 🌱 **Current Position**: Research Engineer at Paladio AI
+  - Focused on advanced information retrieval and multimodal search systems for e-commerce and construction industries.
 - 🤖 **Research Interests**: Exploring the intersection of AI and robotics
 
 ## 📫 How to Reach Me
